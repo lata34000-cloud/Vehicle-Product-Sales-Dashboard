@@ -1,7 +1,6 @@
 # 🚗 Vehicle Product Sales Dashboard
 
 ## 📌 Project Overview
-## 📌 Project Overview
 The Vehicle Product Sales Dashboard provides a comprehensive analysis of vehicle product sales data across different brands, models, cities, and time periods. The dashboard transforms raw sales data into meaningful insights related to sales performance, customer behavior, and payment trends to support business decision-making.
 
 ---

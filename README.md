@@ -88,8 +88,16 @@ The dashboard visualizes total sales KPIs, monthly trends, brand and model-wise 
 - Improved understanding of data modeling and DAX measures
 - Practical analysis of sales and customer data
 
+---
+
 ## 🤝 Contribution
 Contributions, suggestions, and improvements are welcome.
+
+---
+
+## 👩‍💻 Author
+**Lata Devi**  
+Data Analyst | Power BI | Data Visualization
 
 ---
 
